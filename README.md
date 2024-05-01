@@ -1,6 +1,6 @@
 # Hello! I'm Dmitry
 
-| English | [Русский](https://github.com/DmitryGolubenkov/DmitryGolubenkov/README.ru-RU.md) |
+| English | [Русский](https://github.com/DmitryGolubenkov/DmitryGolubenkov/blob/master/README.ru-RU.md) |
 
 ## About me
 
