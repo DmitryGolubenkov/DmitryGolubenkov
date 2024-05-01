@@ -1,6 +1,6 @@
 # Привет! Меня зовут Дмитрий
 
-| [English](https://github.com/DmitryGolubenkov/DmitryGolubenkov/README.md) | Русский |
+| [English](https://github.com/DmitryGolubenkov/DmitryGolubenkov/blob/master/README.md) | Русский |
 
 ## Обо мне
 
