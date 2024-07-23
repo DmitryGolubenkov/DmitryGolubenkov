@@ -4,11 +4,12 @@
 
 ## About me
 
-I'm .NET developer from Russia. I've started to write code since 2015 and since then created tens of different projects, small and big.
+I'm .NET developer from Russia. I've started to write code since 2015 (I was at school) and since then created tens of different projects, small and big.
 
-- Fullstack `.NET` developer, analyst and tech lead at Tionit
+- Fullstack `.NET` developer with skills in analytics and system design, DevOps and other fields
 - Built SharpDockerizer and contributed to different open-source projects
 - I love creating projects using `C#` (and sometimes other languages!) and learning new things!
+- Started my professional career in 2022
 - Participated at Hacktoberfest 2021 and 2022
 
 ### Contact me
