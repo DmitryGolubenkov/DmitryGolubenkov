@@ -6,9 +6,10 @@
 
 Я - .NET разработчик из России. Начал писать код ещё в 2015, и с тех пор создал десятки как небольших, так и крупных проектов.
 
-- Fullstack `.NET` разработчик, аналитик и техлид в компании Tionit
+- Fullstack `.NET` разработчик, также имею навыки в аналитике, DevOps, дизайне систем и других областях
 - Разработал SharpDockerizer, вносил свой вклад в различные проекты с открытым исходным кодом
 - Люблю создавать проекты на `C#` (а иногда - и на других языках!), и также учиться новому!
+- Начал профессиональную карьеру в 2022 году.
 - Участвовал в Hacktoberfest 2021 and 2022
 
 ### Контакты
@@ -46,7 +47,6 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
